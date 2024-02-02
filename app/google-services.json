@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712962395308",
+    "project_id": "fir-listacompra-639b4",
+    "storage_bucket": "fir-listacompra-639b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712962395308:android:90f905001f47e9c5f72309",
+        "android_client_info": {
+          "package_name": "com.luiscortes.firebaselistacompra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_-0JGU98w_hVWWoFepjZLsBbN42d2ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
